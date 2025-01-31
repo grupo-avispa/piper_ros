@@ -1,0 +1,12 @@
+<root>
+    <TreeNodesModel>
+        <!-- ############################### ACTION NODES ################################# -->
+        <Action ID="TTS">
+            <input_port name="text">Text to play</input_port>
+            <input_port name="language">Language to use</input_port>
+            <input_port name="volume">Volume of the speech</input_port>
+            <input_port name="rate">Rate of the speech</input_port>
+        </Action>
+    </TreeNodesModel>
+</root>
+
